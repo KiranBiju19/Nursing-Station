@@ -13,3 +13,7 @@ This project is a **Java-based application** built using **Object-Oriented Progr
 ## Tools and Technologies
 - **Java Swing** for GUI design
 - **Java SE** for core programming and application logic
+
+**I did this project with my friends as a part of micro project in college. 
+The video attached to this code will help you understand how the code works.
+Please do ensure that all the files are present in same folder before running. Hope this may be helpful for you :)**
